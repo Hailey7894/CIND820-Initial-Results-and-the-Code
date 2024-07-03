@@ -7,6 +7,6 @@ Tentative stages of the project:
 
 
 # Outline of the repository
-The code to run the Johansen test and Granger casality test. (.R file)
-The compiling .HTML file of technical reports.
-Working datasets have been used in this project. (.csv files)
+1. The code to run the Johansen test and Granger casality test. (.R file)
+2. The compiling .HTML file of technical reports.
+3. Working datasets have been used in this project. (.csv files)
